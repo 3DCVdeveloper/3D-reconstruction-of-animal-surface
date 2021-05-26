@@ -1,7 +1,3 @@
----
-typora-copy-images-to: 视频
----
-
 # 研究主题：牲畜体表信息的三维重建
 
 本文参考Leonid Pishchulinp论文[Building Statistical Shape Spaces for 3D Human Modeling]的方法，使用基于模板的非刚配准来实现三维重建。该方法包括初始化和非刚配准两个步骤。本项目在原有算法的基础上，通过修改其中算法参数和模型，将原有算法从人体转移到牲畜上，并达到一定的精度。
